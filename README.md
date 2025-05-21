@@ -1,4 +1,4 @@
-# TextGrabber
+# Clip'd
 # Chrome Extensions Privacy Policy
 
 # Effective Date: May 7, 2025
